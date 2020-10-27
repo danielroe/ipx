@@ -12,7 +12,7 @@
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config-typescript": "^3.0.0",
+    "@nuxtjs/eslint-config-typescript": "^4.0.0",
     "@types/connect": "^3.4.33",
     "@types/cron": "^1.7.2",
     "@types/etag": "^1.8.0",
